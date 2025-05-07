@@ -14,5 +14,6 @@ This project is based on the official [Jetpack Compose Basics Codelab](https://d
 
 ## 🎥 Gifs
 
-![scrolling](media/01.gif)
-![open greeting](media/02.gif)
+| Scrolling List | Greeting Expansion |
+|----------------|--------------------|
+| ![scrolling](media/01.gif) | ![open greeting](media/02.gif) |
