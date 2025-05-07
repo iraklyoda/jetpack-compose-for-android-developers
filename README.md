@@ -4,8 +4,6 @@
 
 This project is based on the official [Jetpack Compose Basics Codelab](https://developer.android.com/codelabs/jetpack-compose-basics).
 
----
-
 ## 📚 I Practiced
 
 - Basics of Jetpack Compose
@@ -16,10 +14,10 @@ This project is based on the official [Jetpack Compose Basics Codelab](https://d
 
 ## 🎥 Gifs
 
-<video src="media/01.webm" autoplay loop muted playsinline width="320">
+<video src="media/01.gif" autoplay loop muted playsinline width="320">
   Your browser does not support the video tag.
 </video>
 
-<video src="media/02.webm" autoplay loop muted playsinline width="320">
+<video src="media/02.gif" autoplay loop muted playsinline width="320">
   Your browser does not support the video tag.
 </video>
